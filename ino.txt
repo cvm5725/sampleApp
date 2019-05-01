@@ -16,4 +16,6 @@ git clone --> clone repository into a new directory
 
 --> to ignore changes add filename to .gitignore
 
+to create a branch --> git branch branchName
 
+to use branch  -->  git checkout branchname
